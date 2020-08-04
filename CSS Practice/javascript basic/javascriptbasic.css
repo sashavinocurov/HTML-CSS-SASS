@@ -1,0 +1,100 @@
+   /*{
+       padding: 0px;
+       margin: 0px;
+   }*/
+   #wrapper{
+    height: 800px;
+    width: 970px;
+    background-color: rgb(33, 28, 82); 
+    margin: auto;
+    padding: 10px;
+}
+   #header{
+    height: 75px; 
+    width: 900px;
+    background-color: rgb(187, 31, 3);
+    padding: auto;
+    border-radius: 25px;
+    margin: 20px auto;
+}
+#navbar{
+    height:250px;
+    width: 200px;
+    background-color: rgb(5, 163, 155);
+    border-radius: 25px;
+    padding: 10px;
+
+}
+
+#maininfo{
+    height: 600px;
+    width: 700px;
+    background-color: rgb(6, 0, 26); 
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+#link{
+    height: 40px;
+    width: 965px;
+    border-radius: 25px;
+    background-color: silver;
+    display: inline-block;
+    margin-top:25px;
+}
+#container{
+    margin: 5px;
+    display: flex; 
+    justify-content: space-between;
+}
+h1{
+    color: whitesmoke;
+    font-family: "helvetica neue", arial, verdana, sans-serif;
+    left: 25px;
+    top: 20px;
+    position: relative;
+      
+
+}
+h3{
+    color: whitesmoke;
+    font-family: "helvetica neue", arial, verdana, sans-serif;
+}
+p{
+    color: whitesmoke;
+    font-family: "helvetica neue", arial, verdana, sans-serif;
+    font-size: 15px;
+}
+a{
+    color: rgb(123, 205, 233);
+    font-family: "helvetica neue", arial, verdana, sans-serif;
+    margin-right: 15px;
+}
+strong{
+    color: darkblue;
+    font-family: "helvetica neue", arial, verdana, sans-serif;
+    font-size: 15px;
+}
+li{
+    color: whitesmoke;
+    font-family: "helvetica neue", arial, verdana, sans-serif;
+    font-size:15px;
+}
+#a1{
+    right: 40px;
+    position: relative;
+}
+.li1{
+    right:25px;
+    position: relative;
+}
+#p1{
+    text-align: justify;
+    left:15px;
+    position: relative;
+}
+#a2{
+    font-size: 15px;
+}

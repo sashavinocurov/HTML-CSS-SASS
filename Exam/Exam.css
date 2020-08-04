@@ -1,0 +1,211 @@
+*{
+    /* outline: 1px solid orange;  */
+    /* padding: 0px;
+    margin: 0px; */
+}
+.background{
+    width: 970px;
+    min-height: 1000px;
+    margin:auto;
+    padding-left: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+}
+
+.top{
+    width: 910px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #e2e1e2;
+    background-image: linear-gradient(white, #e1e0e1);
+    padding: 0px;
+    vertical-align: top;
+
+}
+    #micon{
+        display: inline-block;
+        width: 65px;
+        height: 50px;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        padding: 0px;
+        
+    }
+    .mbarul{
+        display: inline-block;
+        padding: 0px;
+        margin:0px;
+    }
+    .mbarli{
+        display: inline-block;
+        margin: 0px;
+        height: 49px;
+        padding: 5px;
+        vertical-align: 100%;
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+    .searchbar{
+        display:inline-block;
+        vertical-align: 100%;
+    }
+    input{
+        height: 20px;
+        width: 150px;
+        border-top-left-radius: 25px;
+        border-bottom-left-radius: 25px;
+        margin-left: 260px;
+        margin-top: -10px;
+        padding: 0px;
+        padding-left: 5px;
+        padding-top: 2px;
+    }
+    #searchbutton{
+        padding: 0px;
+        vertical-align: -25%;
+        border: 0px;
+        top: 2px;
+        right: 6px;
+        position: relative;
+    }
+    #searchicon{
+        width: 23px;
+        height: 21.5px;
+    }
+    .separator2{
+        width: 1px;
+        height: 50px;
+        margin:0px;
+        background-color: #e2e1e2;
+        display: inline-block;
+    }
+.imagecenter{
+    width: 910px;
+    height: 380px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+    #mainimg{
+        width:909px;
+        height:350px;
+        margin-left: 1px;
+    }
+    .mainbar{
+        height: 30px;
+        width: 909px;
+        padding: 0px;
+        background-image: linear-gradient(#4e504e,#3d3d3d);
+        bottom: 4.5px;
+        position: relative;
+        margin-left: 1px;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    .mainbarul{
+        display: inline-block;
+        color: white;
+        margin-left: 20px;
+        margin-top: -8px;
+        padding: 0px;
+    }
+    .mainbarli{
+        display: inline-block;  
+        margin: 0px 2.5px 0px 2.5px; 
+        color:#5486a0;  
+    }
+        .mabarslash{
+            margin-right: 5px;
+            display: inline-block;
+            color:#555555; 
+
+        }
+.navbar{
+    width: 910px;
+    min-height: 400px;
+    border-radius: 5px;
+    border: 1px solid #e2e1e2;
+    background-image: linear-gradient(white, #f2f2f2);
+}
+    .discoverbarh3{
+        height: 50px;
+        width: 910px;
+        display: flex;
+        border: 1px solid #e2e1e2;
+        vertical-align: top;
+        border-radius: 5px;    
+    }
+        .h3{
+            width: 400px;
+        }
+        #storebutton{
+            width: 300px;
+            margin-left: 200px;
+
+        }
+    .messagebar{
+    
+    }
+        
+        .message{
+            width: 200px;
+            min-height: 300px;
+            display: inline-block;
+            vertical-align: top;
+            padding-left: 10px;
+        }
+            .conticon{
+                text-align: start
+            }
+            #watchpng{
+                width: 200px;
+            }
+            #tourpng{
+                width: 170px;
+            }
+            #trialpng{
+                width: 175px;
+
+            }
+            #productpng{
+                width: 200px;
+            }
+            .disctext{
+                font-size: 13px;
+                text-align: start;
+            }
+
+        .separator{
+            width: 1px;
+            height: 300px;
+            background-color: #e2e1e2;
+            display: inline-block;
+            margin-right: 5px;
+            margin-left: 5px;
+            margin-top: 20px;
+
+        }
+    .emptybar{
+        width: 910px;
+        height: 50px;
+    }
+.infobar{
+    width: 910px;
+    min-height: 300px;
+}
+    .infomess{
+        width: 135px;
+        min-height: 200px; 
+        display: inline-block;
+        margin: 5px; 
+        vertical-align: top;
+    }
+        .infomessul{
+            list-style-type: none;
+        }
+.bottombar{
+    width: 910px;
+    min-height: 50px;
+}

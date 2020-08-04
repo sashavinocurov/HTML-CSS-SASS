@@ -1,0 +1,77 @@
+#wrapper{
+    height: 810px;
+    width: 800px;
+    background-color: silver;
+    margin: 0px, auto;
+    border: 2px solid black;
+    padding: 10px;
+}
+#header{
+    height: 190px;
+    width:  780px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.headblock1{
+    min-height: 175px;
+    width: 370px;
+    border: 2px solid black;
+    background-color: red;  
+    display: inline-block;
+}   
+.headblock2{
+    min-height: 175px;
+    width: 370px;
+    border: 2px solid black;
+    background-color: red; 
+    
+    display: inline-block;
+}   
+#toolbar{
+    height: 190px;
+    width: 775px;
+    background-color: blue;
+    border: 2px solid black;
+    margin-left: 10px;
+}
+#optionbar{
+    height: 190px;
+    width: 780px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.optionbox{
+    min-height: 175px;
+    width: 245px;
+    background-color: yellow;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+#bottombar{
+    height: 175px;
+    width: 755px;
+    background-color: green;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.bottombox1{
+    height: 170px;
+    width: 170px;
+    background-color: blueviolet;
+    border: 2px solid black; 
+    display: inline-block;
+}
+.bottombox2{
+    height: 170px;
+    width: 170px;
+    background-color: blueviolet;
+    border: 2px solid black; 
+    display: inline-block;
+    
+}
